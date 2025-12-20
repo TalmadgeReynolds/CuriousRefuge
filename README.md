@@ -1,7 +1,8 @@
 
+Filmmaking Engine
 
-# NBP → Kling Turbo Filmmaking Engine
-### API-Driven AI Filmmaking Pipeline with Project-Level Cost, Prompt & Asset Tracking
+Nana Banana Pro → Kling Turbo
+API-Driven AI Filmmaking Pipeline
 
 ---
 
